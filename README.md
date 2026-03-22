@@ -9,14 +9,13 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+IS+%26+Big+Data;Backend+Developer+%7C+Java+%26+Laravel;System+Admin+%7C+Linux+%26+DevOps;Data+%26+Automation+Enthusiast+%F0%9F%9A%80;Open+to+Internship+%E2%80%94+July+2026+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&lines=Backend+Dev+%7C+Java+%26+Laravel;System+Admin+%7C+Linux+%26+DevOps;Data+%26+Automation+Enthusiast+%F0%9F%9A%80;Vibing+to+code+%F0%9F%8E%A7+%7C+Building+systems+like+a+pro;Open+to+IT+Internship+%E2%80%94+July+2026+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensidi@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bnsidi)
+[![Gmail](https://img.shields.io/badge/bensidi.yassine0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensidi.yassine0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/yassine--bensidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bensidi/)
+[![GitHub](https://img.shields.io/badge/Bnsidi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bnsidi)
 
 </div>
 
@@ -26,9 +25,12 @@
 
 ```yaml
 name        : Yassine BENSIDI
-role        : Engineering Student — Information Systems & Big Data (Year 2)
-status      : 🟢 Active — Building, grinding, and shipping
+role        : Engineering Student — Information Systems & Big Data 
+email       : bensidi.yassine0@gmail.com
+github      : github.com/Bnsidi
+linkedin    : linkedin.com/in/yassine-bensidi
 vibe        : "Code is music. I compose systems." 🎧
+status      : 🟢 Grinding — Building, shipping, leveling up
 availability: 🔥 Open to 2-month IT Internship — July 2026
 ```
 
@@ -140,10 +142,12 @@ availability: 🔥 Open to 2-month IT Internship — July 2026
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bnsidi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnsidi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bnsidi&show_icons=true&theme=radical&hide_border=true&bg_color=060A0F&title_color=00F5FF&icon_color=00F5FF&text_color=C8D8E8&ring_color=00F5FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnsidi&layout=compact&theme=radical&hide_border=true&bg_color=060A0F&title_color=00F5FF&text_color=C8D8E8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bnsidi&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bnsidi&theme=radical&hide_border=true&background=060A0F&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF" />
 
 </div>
 
@@ -152,11 +156,12 @@ availability: 🔥 Open to 2-month IT Internship — July 2026
 ## `> cat roadmap.md`
 
 ```
-[██████████] Backend Mastery (Java, Laravel)      ████████░░ 80%
-[██████████] Linux & System Administration         ███████░░░ 70%
-[██████████] Database Engineering (Oracle, MySQL)  ████████░░ 75%
-[░░░░░░░░░░] Cloud Certs (Azure, AWS, Databricks)  ████░░░░░░ 40%  ← GRINDING
-[░░░░░░░░░░] Big Data & ML Pipeline                ███░░░░░░░ 30%  ← NEXT
+⚔️  GRINDING NOW
+    └─ Mastering Postfix, Oracle, production-grade backends    ████████░░ 80%
+
+☁️  SIDE QUESTS
+    └─ Cloud/Big Data certs (Azure, AWS, Databricks)           ████░░░░░░ 40%  ← IN PROGRESS
+    └─ Professional French polish                              █████░░░░░ 50%
 ```
 
 ---
@@ -166,19 +171,20 @@ availability: 🔥 Open to 2-month IT Internship — July 2026
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🌱  Actively seeking a 2-month IT Internship — July 2026      │
-│   📍  Available for remote or on-site positions                 │
-│   📬  Open to backend, sysadmin, data, or automation roles     │
-│                                                                 │
-│          Let's build something extraordinary together.          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🌱  Actively seeking a 2-month IT Internship — July 2026              │
+│   📍  Available for remote or on-site positions                         │
+│   📬  Open to backend, sysadmin, data, or automation roles             │
+│                                                                         │
+│              Let's build something extraordinary together.              │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Email Me](https://img.shields.io/badge/📬_Hit_Me_Up-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:bensidi@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/📬_bensidi.yassine0%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:bensidi.yassine0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bensidi/)
+[![GitHub](https://img.shields.io/badge/🐙_github.com/Bnsidi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bnsidi)
 
 </div>
 
